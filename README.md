@@ -39,8 +39,8 @@ The text from every news article is processed before being fed into the model fo
 - Lower casing of all the words
 - Removal of stopwords
 - Removal of extra white-spaces in between all the words
-- Tokenization of dataset (breaking the text into lists of words)
-<br/>
+- Tokenization of dataset (breaking the text into lists of words)<br/>
+
 The notebook GNR652_Fake_News_Detection_DL_preprocessing.ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/src) folder contains the code.
 
 ## Model Building
