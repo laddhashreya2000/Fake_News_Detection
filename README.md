@@ -42,7 +42,7 @@ The text from every news article is processed before being fed into the model fo
 - Removal of extra white-spaces in between all the words
 - Tokenization of dataset (breaking the text into lists of words)
 <br/>
-The notebook [GNR652_Fake_News_Detection_DL_preprocessing.ipynb](https://github.com/laddhashreya2000/Fake_News_Detection/blob/master/src/GNR652_Fake_News_Detection_DL_preprocessing.ipynb) in the src folder contains the code.
+The notebook GNR652_Fake_News_Detection_DL_preprocessing.ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/src) folder contains the code.
 
 ## Model Building
 
@@ -54,7 +54,7 @@ Our Neural Network comprises of 6 different kinds of layers, they are as follows
 - Dense layer: Ensures connection between all the above formed patterns
 - Dropout layer: Responsible for regularization
 <br/>
-The notebook [GNR652_Fake_News_Detection_Model_building_ (1).ipynb](https://github.com/laddhashreya2000/Fake_News_Detection/blob/master/src/GNR652_Fake_News_Detection_Model_building_%20(1).ipynb) in the src folder contains the code.
+The notebook GNR652_Fake_News_Detection_Model_building_ (1).ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/src) folder contains the code.
 
 ## Results
 
