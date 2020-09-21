@@ -21,16 +21,12 @@ These two datasets have been merged together to create a larger dataset for trai
 - We trained the model with only CNN backbone on IMDB movie rating dataset with labels being 1 and 0 i.e. Positive and Negative.
 - On doing the Sentiment classification on the text of our fake news dataset, we find that 65.3% of the news are negative news and 34.7% are positive news.
 3. Word Count Boxplot -  
-- Mean Word count is 446.307
-- Minimum word count is 0
-- Maximum word count is 4849
-- 25% words have word count less than 163
-- 75% words have word count less than 621
-- Standard Deviation of the word count is 428.3
+- Mean Word count is 446.307 and standard deviation of the word count is 428.3
+- 25% words have word count less than 163 and 75% words have word count less than 621
 
 ## Preprocessing and Text Cleaning
 
-The text from every news article is processed before being fed into the model for training. The following steps were done in sequence. These tasks were performed using Regex and NLTK libraries.
+The text from every news article is processed before being fed into the model for training. The following steps were done in sequence. These tasks were performed using Regex library.
 - Removal of null and NAN values
 - Removal of website links and URLs
 - Removal of email addresses
