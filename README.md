@@ -49,7 +49,7 @@ Our Neural Network comprises of 6 different kinds of layers, they are as follows
 - Dense layer: Ensures connection between all the above formed patterns
 - Dropout layer: Responsible for regularization<br/>
 
-The notebook GNR652_Fake_News_Detection_Model_building_(1).ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/imgs) folder contains the code.
+The notebook GNR652_Fake_News_Detection_Model_building_(1).ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/imgs) folder contains the code. [GloVe](https://nlp.stanford.edu/projects/glove/) is used for obtaining pre trained vector representation of words for the embedding layer. To download Stanford's GloVe 100d word embedding file, click [here](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt). 
 
 ## Results
 
