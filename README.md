@@ -1,5 +1,4 @@
 # Fake News Classifier
-Team Members - Shreya Laddha, Anurag Kumar, Hitul Desai, Harsh Pal, Kaustubh Shardul Bhargao
 
 ## Introduction
 
@@ -11,8 +10,7 @@ To train our Neural Network for this task, we have used two datasets which compr
 1. [Fake News from Kaggle](https://www.kaggle.com/c/fake-news/data)
 2. [Fake real news_dataset from GitHub](https://github.com/joolsa/fake_real_news_dataset)
 <br/>
-These two datasets have been merged together to create a larger dataset for training and validation with a random shuffle and a test split ratio of 0.35 (this is relatively high to counter overfitting). You can find the merged dataset [here](https://drive.google.com/file/d/1SiM34MdY4U_Yj0L8kMdhuffykkJvu-0F/view?usp=sharing).
-
+These two datasets have been merged together to create a larger dataset for training and validation with a random shuffle and a test split ratio of 0.35 (this is relatively high to counter overfitting). You can find the merged dataset <a href="https://drive.google.com/file/d/1SiM34MdY4U_Yj0L8kMdhuffykkJvu-0F/view?usp=sharing>here</a>.
 ### Exploratory Data Analysis
 1. Event Rates
 - Train Dataset:  0(Real) - 10333(49.24%)   1(Fake) - 10654(50.76%)
