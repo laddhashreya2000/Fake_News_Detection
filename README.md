@@ -8,9 +8,10 @@ We present the solution to the task of differentiating the fake news from authen
 ## Dataset
 To train our Neural Network for this task, we have used two datasets which comprise of news articles from the time of US Presidential election of 2016 from various media houses and sources.
 1. [Fake News from Kaggle](https://www.kaggle.com/c/fake-news/data)
-2. [Fake real news_dataset from GitHub](https://github.com/joolsa/fake_real_news_dataset)
-<br/>
-These two datasets have been merged together to create a larger dataset for training and validation with a random shuffle and a test split ratio of 0.35 (this is relatively high to counter overfitting). You can find the merged dataset <a href="https://drive.google.com/file/d/1SiM34MdY4U_Yj0L8kMdhuffykkJvu-0F/view?usp=sharing>here</a>.
+2. [Fake real news_dataset from GitHub](https://github.com/joolsa/fake_real_news_dataset)<br/>
+
+These two datasets have been merged together to create a larger dataset for training and validation with a random shuffle and a test split ratio of 0.35 (this is relatively high to counter overfitting). You can find the merged dataset [here](https://drive.google.com/file/d/1SiM34MdY4U_Yj0L8kMdhuffykkJvu-0F/view?usp=sharing).
+
 ### Exploratory Data Analysis
 1. Event Rates
 - Train Dataset:  0(Real) - 10333(49.24%)   1(Fake) - 10654(50.76%)
@@ -50,9 +51,9 @@ Our Neural Network comprises of 6 different kinds of layers, they are as follows
 - Max Pooling layer: Picks out significant patterns, feature space is compressed
 - LSTM layer: Just like a modified RNN layer, controls flow of information and patterns
 - Dense layer: Ensures connection between all the above formed patterns
-- Dropout layer: Responsible for regularization
-<br/>
-The notebook GNR652_Fake_News_Detection_Model_building_ (1).ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/src) folder contains the code.
+- Dropout layer: Responsible for regularization<br/>
+
+The notebook GNR652_Fake_News_Detection_Model_building_(1).ipynb in the [src](https://github.com/laddhashreya2000/Fake_News_Detection/tree/master/imgs) folder contains the code.
 
 ## Results
 
