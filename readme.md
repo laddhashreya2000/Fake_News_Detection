@@ -1,5 +1,3 @@
-# Fake News Classifier
-
 ## Introduction
 
 The problem of fake news has been ever increasing with the booming age of internet where thoughts, and information can be conveyed to the whole world with a single press of a button. Fake news are spread everywhere, by everyone, knowingly or unknowingly, from whatsapp messages of our uncles to even large media houses. False information is shared with intentions of political gain or for spreading propaganda against particular casts, creed, race or religion, hence this is a very critical issue in today’s world. <br/>
